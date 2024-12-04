@@ -1,0 +1,53 @@
+Name,Latitude,Longitude,Type,Population,Year_Claimed,Land_Area_sq_mi,Voting_Rights,Notes
+Alaska,63.588753,-154.493062,State,"731,000",1959,"663,300 sq mi",true,Geographical challenges and remote population
+Alabama,32.318231,-86.902298,State,"5,024,000",1819,"52,420 sq mi",true,N/A
+Arkansas,35.20105,-91.831833,State,"3,030,000",1836,"53,179 sq mi",true,N/A
+Arizona,34.048928,-111.093731,State,"7,276,000",1912,"113,990 sq mi",true,N/A
+California,36.778261,-119.417932,State,"39,538,000",1850,"163,696 sq mi",true,N/A
+Colorado,39.550051,-105.782067,State,"5,812,000",1876,"104,094 sq mi",true,N/A
+Connecticut,41.603221,-73.087749,State,"3,605,000",1788,"5,543 sq mi",true,N/A
+District of Columbia,38.905985,-77.033418,Federal District,"689,000",1790,68 sq mi,false,Established in 1970
+Delaware,38.910832,-75.52767,State,"1,001,000",1787,"1,949 sq mi",true,N/A
+Florida,27.664827,-81.515754,State,"21,538,000",1845,"65,758 sq mi",true,N/A
+Georgia,32.157435,-82.907123,State,"10,711,000",1788,"59,425 sq mi",true,N/A
+Hawaii,19.898682,-155.665857,State,"1,455,000",1959,"10,931 sq mi",true,Dispersed island geography
+Iowa,41.878003,-93.097702,State,"3,190,000",1846,"56,272 sq mi",true,N/A
+Idaho,44.068202,-114.742041,State,"1,900,000",1890,"83,569 sq mi",true,N/A
+Illinois,40.633125,-89.398528,State,"12,812,000",1818,"57,914 sq mi",true,N/A
+Indiana,40.551217,-85.602364,State,"3,669,000",1816,"36,420 sq mi",true,N/A
+Kansas,39.011902,-98.484246,State,"2,937,000",1861,"82,278 sq mi",true,N/A
+Kentucky,37.839333,-84.270018,State,"4,509,000",1792,"40,409 sq mi",true,N/A
+Louisiana,31.244823,-92.145024,State,"4,657,000",1812,"51,843 sq mi",true,Frequent natural disasters
+Massachusetts,42.407211,-71.382437,State,"6,892,000",1788,"10,554 sq mi",true,N/A
+Maryland,39.045755,-76.641271,State,"6,177,000",1788,"12,407 sq mi",true,N/A
+Maine,45.253783,-69.445469,State,"1,354,000",1820,"35,385 sq mi",true,N/A
+Michigan,44.314844,-85.602364,State,"10,034,000",1837,"96,716 sq mi",true,N/A
+Minnesota,46.729553,-94.6859,State,"5,706,000",1858,"86,936 sq mi",true,N/A
+Missouri,37.964253,-91.831833,State,"6,154,000",1821,"69,707 sq mi",true,N/A
+Mississippi,32.354668,-89.398528,State,"2,961,000",1817,"48,432 sq mi",true,N/A
+Montana,46.879682,-110.362566,State,"1,104,000",1889,"147,040 sq mi",true,N/A
+North Carolina,35.759573,-79.0193,State,"10,439,000",1789,"53,819 sq mi",true,N/A
+North Dakota,47.551493,-101.002012,State,"779,000",1889,"70,700 sq mi",true,N/A
+Nebraska,41.492537,-99.901813,State,"1,961,000",1867,"77,348 sq mi",true,N/A
+New Hampshire,43.193852,-71.572395,State,"1,377,000",1788,"9,349 sq mi",true,N/A
+New Jersey,40.058324,-74.405661,State,"9,267,000",1787,"8,722 sq mi",true,N/A
+New Mexico,34.97273,-105.032363,State,"2,117,000",1912,"121,590 sq mi",true,N/A
+Nevada,38.80261,-116.419389,State,"3,185,000",1864,"110,572 sq mi",true,N/A
+New York,43.299428,-74.217933,State,"19,835,000",1788,"54,555 sq mi",true,N/A
+Ohio,40.417287,-82.907123,State,"11,799,000",1803,"44,825 sq mi",true,N/A
+Oklahoma,35.007752,-97.092877,State,"4,007,000",1907,"69,899 sq mi",true,N/A
+Oregon,43.804133,-120.554201,State,"4,246,000",1859,"98,379 sq mi",true,N/A
+Pennsylvania,41.203322,-77.194525,State,"13,002,000",1787,"46,055 sq mi",true,N/A
+Puerto Rico,18.220833,-66.590149,Territory,"3,195,000",1898,"3,515 sq mi",false,lacks full congressional participation
+Rhode Island,41.580095,-71.477429,State,"1,097,000",1790,"1,214 sq mi",true,N/A
+South Carolina,33.836081,-81.163725,State,"5,277,000",1788,"32,020 sq mi",true,N/A
+South Dakota,43.969515,-99.901813,State,"903,000",1889,"77,000 sq mi",true,N/A
+Tennessee,35.517491,-86.580447,State,"6,975,000",1796,"42,144 sq mi",true,N/A
+Texas,31.968599,-99.901813,State,"29,145,000",1845,"268,596 sq mi",true,N/A
+Utah,39.32098,-111.093731,State,"3,337,000",1896,"84,899 sq mi",true,N/A
+Virginia,37.431573,-78.656894,State,"8,631,000",1788,"42,775 sq mi",true,N/A
+Vermont,44.558803,-72.577841,State,"643,000",1791,"9,616 sq mi",true,N/A
+Washington,47.751074,-120.740139,State,"7,705,000",1889,"71,362 sq mi",true,N/A
+Wisconsin,43.78444,-88.787868,State,"5,893,000",1848,"65,498 sq mi",true,N/A
+West Virginia,38.597626,-80.454903,State,"1,782,000",1863,"24,230 sq mi",true,N/A
+Wyoming,43.075968,-107.290284,State,"576,000",1890,"97,814 sq mi",true,Sparse population and rugged terrain
